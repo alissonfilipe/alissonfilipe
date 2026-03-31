@@ -27,13 +27,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Contribuições no GitHub
 
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alissonfilipe&show_icons=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfilipe&layout=compact&cache_seconds=1800"/>
-</p>
+![GitHub Contributions](https://github.pumbas.net/api/contributions/alissonfilipe)
 
 ---
 
