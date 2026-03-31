@@ -31,8 +31,8 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonfilipe&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfilipe&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alissonfilipe&show_icons=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonfilipe&layout=compact&cache_seconds=1800"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Busco oportunidades como **Analista de Dados, Engenheiro de Dados Júnior ou Des
 
 ## 🌐 Vamos nos conectar
 
-[![LinkedIn](www.linkedin.com/in/alisson-filipe-santos)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alisson%20Filipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-filipe-santos)
 
 ---
 
