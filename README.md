@@ -6,12 +6,12 @@
 
 ## 🚀 Sobre mim
 
-* 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
-* 📊 Atualmente me especializando em **Análise de Dados e Inteligência Artificial**
-* 🌱 Estudando: **Python, SQL, Power BI, Machine Learning e Engenharia de Dados**
-* 🤝 Aberto para colaborar em projetos open source e projetos de dados
-* 💬 Pergunte-me sobre: **Python, Django, HTML, CSS, JavaScript e Data Analysis**
-* 📫 Contato: **[alissonsantos4@estudante.ifto.edu.br](alissonsantos4@estudante.ifto.edu.br)**
+![Formação](https://img.shields.io/badge/Formação-ADS-blue?style=for-the-badge)
+![Foco](https://img.shields.io/badge/Foco-Análise%20de%20Dados%20e%20IA-purple?style=for-the-badge)
+![Estudando](https://img.shields.io/badge/Estudando-Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20ML-orange?style=for-the-badge)
+![Interesses](https://img.shields.io/badge/Colaboração-Open%20Source%20e%20Projetos%20de%20Dados-green?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Django%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-black?style=for-the-badge)
+[![Contato](https://img.shields.io/badge/LinkedIn-Alisson%20Filipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-filipe-santos)
 
 ---
 
